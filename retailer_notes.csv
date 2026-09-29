@@ -1,0 +1,38 @@
+retailer_name,note_date,note_text,category
+Riverbend Medical,2025-03-14,Riverbend flagged that their last two shipments arrived 5 days late. They're asking for expedited shipping on future orders at no extra cost.,shipping
+Riverbend Medical,2025-06-02,"Account manager call: Riverbend is happy with product quality on the SKU-00059 line, no complaints there.",relationship
+Riverbend Medical,2025-09-10,Riverbend requested a 10% volume discount if they commit to a quarterly standing order. Still in negotiation.,pricing
+Riverbend Medical,2026-01-20,"Riverbend reported receiving a partially damaged pallet on their last delivery. Replacement was sent, no charge.",product_quality
+Northeast Uniform Co.,2025-02-11,Northeast Uniform is unhappy with sizing inconsistency on the last batch of SKU-00359. Asked for a QA review before next shipment.,product_quality
+Northeast Uniform Co.,2025-07-19,"Northeast Uniform renewed their annual contract, no issues raised during the call.",relationship
+Northeast Uniform Co.,2025-11-05,Northeast Uniform asked about consolidating multiple smaller orders into one shipment to reduce freight costs.,shipping
+Evergreen Sporting Goods,2025-04-22,Evergreen complained about a 2-week delay on backordered inventory. They're considering a backup supplier if this happens again.,shipping
+Evergreen Sporting Goods,2025-08-30,"Evergreen pushed hard for a lower unit price on bulk orders above 100 units. Offered a 5% discount, they're reviewing.",pricing
+Evergreen Sporting Goods,2026-02-14,"Evergreen praised the new packaging on recent shipments, said it reduced damage in transit noticeably.",product_quality
+Atlantic School Supply,2025-01-08,Atlantic School Supply canceled an order last minute due to a budget freeze on their end. Not related to product issues.,relationship
+Atlantic School Supply,2025-05-17,Atlantic flagged a billing discrepancy - invoice didn't match the agreed unit price. Resolved after review.,pricing
+Atlantic School Supply,2025-10-25,"Atlantic requested faster turnaround before the school year starts in August, worried about backorder delays.",shipping
+Atlantic School Supply,2026-03-03,Atlantic School Supply's procurement lead mentioned they're evaluating a competitor due to recent delivery delays.,relationship
+Frontier Sports,2025-03-29,Frontier Sports reported strong satisfaction with order accuracy over the past two quarters.,relationship
+Frontier Sports,2025-09-15,"Frontier asked about expanding their SKU catalog access, interested in outdoor gear lines not currently offered.",product_quality
+Sunbelt School Supply,2025-02-27,"Sunbelt complained about a mislabeled shipment - wrong SKU sent for a bulk order, causing a fulfillment delay on their end.",product_quality
+Sunbelt School Supply,2025-06-11,"Sunbelt negotiated a new pricing tier for orders over 500 units, effective next quarter.",pricing
+Sunbelt School Supply,2025-12-01,Sunbelt has had two backordered SKUs for over three weeks now. Getting frustrated with lack of updates.,shipping
+Mid-Atlantic Medical,2025-04-08,Mid-Atlantic Medical raised concerns about product expiration dating on medical supply SKUs. Requested more transparency on lot numbers.,product_quality
+Mid-Atlantic Medical,2025-08-19,"Mid-Atlantic renewed their contract early, cited reliable delivery as the main reason.",relationship
+Mid-Atlantic Medical,2026-01-30,Mid-Atlantic asked for a rush order due to an unexpected spike in demand at their clinics.,shipping
+Empire Healthcare,2025-05-05,Empire Healthcare canceled a large order after finding a lower price from a competitor. Sales team is following up.,pricing
+Empire Healthcare,2025-10-14,"Empire flagged a recurring backorder issue on SKU-00013, third time in six months.",shipping
+Empire Healthcare,2026-02-28,Empire Healthcare's procurement manager praised the responsiveness of the support team during a recent shipping delay.,relationship
+Pacific Outfitters,2025-03-20,"Pacific Outfitters is a new account, onboarding went smoothly with no major issues reported.",relationship
+Pacific Outfitters,2025-07-02,Pacific requested bulk pricing information for a potential large seasonal order ahead of Q4.,pricing
+Pacific Outfitters,2025-11-18,Pacific reported a shipment arrived with several boxes water-damaged. Replacement shipped same week.,product_quality
+Lakeshore Industrial Supply,2025-02-15,Lakeshore has had persistent backorder problems on three SKUs and is escalating to their account manager.,shipping
+Lakeshore Industrial Supply,2025-06-25,Lakeshore negotiated better payment terms (net-60 instead of net-30) due to their order volume.,pricing
+Lakeshore Industrial Supply,2025-12-12,Lakeshore's warehouse manager complimented the consistent packaging quality across recent shipments.,product_quality
+Cascade Medical Group,2025-04-01,Cascade Medical Group reported a critical shipping delay affecting a time-sensitive medical supply order.,shipping
+Cascade Medical Group,2025-09-08,"Cascade is reviewing whether to consolidate their supplier list, we are one of three vendors being evaluated.",relationship
+Cascade Medical Group,2026-01-15,Cascade requested a formal quote for exclusive distribution rights in their region.,pricing
+Heartland Uniform Co.,2025-03-07,Heartland Uniform flagged inconsistent stitching quality on a recent batch. Sent samples back for review.,product_quality
+Heartland Uniform Co.,2025-08-22,Heartland asked about seasonal demand forecasting support ahead of their busy season.,relationship
+Heartland Uniform Co.,2026-02-05,Heartland has two orders currently backordered and asked for an updated timeline.,shipping

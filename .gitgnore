@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# vector stores - rebuild via ingest_notes.py, don't commit generated indexes
+notes_chroma_db/
+chroma_db/
+
+# large generated dataset - see README for how to regenerate
+b2b_wholesale_purchase_orders_1m.csv
